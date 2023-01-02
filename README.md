@@ -1,10 +1,6 @@
 # Land-Classification-neural-network-approaches-on-satellite-images
 
-
-    Ci sono 2 modi per eseguire il codice:
-
-    Usare i file nella cartella notebook. Per usarli consiglio di importarli su google colab avendo svolto il progetto interamente su esso
-    Usare i codici nella cartella CodicePython
+    Per eseguire il codice usare i file nella cartella notebook. Per usarli è possibile di importarli su google colab oppure eseguirli in locale
 
 Metodi utilizzati:
 
